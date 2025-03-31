@@ -13,7 +13,6 @@
 - 🖥️ I’m also a freelance web developer.
 - 🌱 I’m currently exploring React Redux. 
 - 🤔 My interest lies in front end web development.
-- 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [facordoba02@gmail.com](mailto:facordoba02@gmail.com).
 
 <br/>
